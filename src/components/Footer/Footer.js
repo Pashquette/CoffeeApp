@@ -12,7 +12,7 @@ const Footer = () => {
                     <ul className="footer__nav-list">   
                         <img className='footer__icon' src={navLogoBlack} alt="logo"/>   
                         <li className="footer__nav-list__item">
-                        <NavLink to="/">
+                        <NavLink to="/CoffeeApp">
                             Coffee House
                         </NavLink>
                             </li>

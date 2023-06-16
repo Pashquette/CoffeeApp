@@ -50,3 +50,31 @@
 	background-color: #fff;
 }
 
+@media screen and (max-width: 767px) {
+    .nav {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding-left: 0;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        max-width: none;
+    }
+
+    .nav-list {
+        flex-direction: row;
+        column-gap: 15px;
+    }
+
+    .nav-list__item {
+        padding-top: 15px;
+    }
+
+    .nav-list__item--active::before {
+        top: auto;
+        bottom: -1px;
+    }
+}
+

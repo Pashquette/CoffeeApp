@@ -4,6 +4,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
+    background-position: top center;
 }
 
 .our-best__container {
@@ -83,3 +84,60 @@
     width: calc(33.33% - 10px); /* Расчет ширины с учетом отступа между элементами */
     margin: 5px; /* Отступ между элементами */
   }
+
+
+  @media screen and (max-width: 767px) {
+    .our-best {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .our-best__container {
+        width: 100%;
+    }
+
+    .our-best__title {
+        padding-top: 40px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .our-best__list {
+        flex-wrap: wrap;
+        justify-content: center;
+        column-gap: 20px;
+        row-gap: 40px;
+    }
+
+    .our-best__item {
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+    }
+
+    .our-best__item__descr {
+        padding-top: 20px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .our-best__item__price {
+        padding-top: 15px;
+        font-size: 12px;
+        text-align: center;
+        align-self: center;
+    }
+
+    .card-list {
+        width: 100%;
+        padding: 0 10px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        row-gap: 30px;
+    }
+
+    .card-list CardItem {
+        width: 100%;
+    }
+}

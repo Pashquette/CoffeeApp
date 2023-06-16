@@ -18,7 +18,7 @@ function App() {
 				<ScrollToTop/>
 				<Navbar/>
 				<Routes>
-					<Route path="/" element={<MainPage/>}/>
+					<Route path="/CoffeeApp" element={<MainPage/>}/>
 					<Route path="/coffee" element={<OurCoffee/>}/>
 					<Route path="/pleasure" element={<ForYourPleasure/>}/>
 					<Route path="/coffee/:id" element={<CoffeeItemPage/>}/>

@@ -37,3 +37,33 @@
     width: 800px;
     row-gap: 60px;
 }
+
+@media (max-width: 767px) {
+    .for-your-pleasure__header {
+        height: 160px;
+        padding-top: 60px;
+        background-position: top center;
+    }
+
+    .for-your-pleasure__container {
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    .for-your-pleasure__title {
+        padding-top: 40px;
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .for-your-pleasure__card-list {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        height: auto;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        column-gap: 0;
+        row-gap: 20px;
+    }
+}

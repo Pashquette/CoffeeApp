@@ -15,7 +15,7 @@ const Navbar = () => {
                 <ul className="nav-list">
                    <img className="nav-list__logo" src={navLogo} alt="logo"/>
                     <li className="nav-list__item">
-                    <NavLink to="/" className={({isActive}) => isActive ? activeLink : normal}>
+                    <NavLink to="/CoffeeApp" className={({isActive}) => isActive ? activeLink : normal}>
                         Coffee House
                         </NavLink>
                         </li>

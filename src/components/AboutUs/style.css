@@ -1,5 +1,6 @@
 .about-us {
     height: 520px;   
+    background-position: top center;
 }
 
 .container {
@@ -30,4 +31,28 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
+}
+
+@media screen and (max-width: 767px) {
+    .about-us {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .about-us__title {
+        padding-top: 40px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .about-us__descr {
+        padding-top: 20px;
+        font-size: 12px;
+        line-height: 18px;
+    }
 }
