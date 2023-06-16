@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/coffee/static/css/main.676a3f71.css",
-    "main.js": "/coffee/static/js/main.46e08b9c.js",
-    "static/media/ourBest-bg.jpg": "/coffee/static/media/ourBest-bg.0a7b9cd461a37b4bc66a.jpg",
-    "static/media/headerBg.jpg": "/coffee/static/media/headerBg.475a56365a4ce7878d35.jpg",
-    "static/media/ourCoffee-bg.jpg": "/coffee/static/media/ourCoffee-bg.35a313742cfd39312f6a.jpg",
-    "static/media/fyp-bg.jpg": "/coffee/static/media/fyp-bg.5c3b7ef018d2dac9ca82.jpg",
-    "static/media/CoffeeBig.jpg": "/coffee/static/media/CoffeeBig.b9403628544ae76ac2fa.jpg",
-    "static/media/girl.jpg": "/coffee/static/media/girl.b409eaa4aaffb291bdc7.jpg",
-    "static/media/coffeeItem-3.png": "/coffee/static/media/coffeeItem-3.dcb91dcba4b6b965f048.png",
-    "static/media/coffeeItem-1.png": "/coffee/static/media/coffeeItem-1.93b7ca5e4837fd856f71.png",
-    "static/media/coffeeItem-2.png": "/coffee/static/media/coffeeItem-2.eac7a0065dc6e158d889.png",
-    "static/media/cup1.jpg": "/coffee/static/media/cup1.44ca1700b80aa5e37674.jpg",
-    "static/media/navLogoWhite.svg": "/coffee/static/media/navLogoWhite.7e5af2c62f1b4e24ac4325270d595efe.svg",
-    "static/media/navLogoBlack.svg": "/coffee/static/media/navLogoBlack.3589927edb41bdd8d1c99bfed3e6301e.svg",
-    "static/media/headerImg.svg": "/coffee/static/media/headerImg.d8ad06a77a7f633d0c2a9736d6fb4634.svg",
-    "static/media/aboutUsLogo.svg": "/coffee/static/media/aboutUsLogo.023b976cf584c92cb61afe5c82a0d35f.svg",
-    "static/media/footerLogo.svg": "/coffee/static/media/footerLogo.023b976cf584c92cb61afe5c82a0d35f.svg",
-    "index.html": "/coffee/index.html",
-    "main.676a3f71.css.map": "/coffee/static/css/main.676a3f71.css.map",
-    "main.46e08b9c.js.map": "/coffee/static/js/main.46e08b9c.js.map"
+    "main.css": "/coffeeApp/static/css/main.65c9a2d3.css",
+    "main.js": "/coffeeApp/static/js/main.db5363b4.js",
+    "static/media/ourBest-bg.jpg": "/coffeeApp/static/media/ourBest-bg.0a7b9cd461a37b4bc66a.jpg",
+    "static/media/headerBg.jpg": "/coffeeApp/static/media/headerBg.475a56365a4ce7878d35.jpg",
+    "static/media/ourCoffee-bg.jpg": "/coffeeApp/static/media/ourCoffee-bg.35a313742cfd39312f6a.jpg",
+    "static/media/fyp-bg.jpg": "/coffeeApp/static/media/fyp-bg.5c3b7ef018d2dac9ca82.jpg",
+    "static/media/CoffeeBig.jpg": "/coffeeApp/static/media/CoffeeBig.b9403628544ae76ac2fa.jpg",
+    "static/media/girl.jpg": "/coffeeApp/static/media/girl.b409eaa4aaffb291bdc7.jpg",
+    "static/media/coffeeItem-3.png": "/coffeeApp/static/media/coffeeItem-3.dcb91dcba4b6b965f048.png",
+    "static/media/coffeeItem-1.png": "/coffeeApp/static/media/coffeeItem-1.93b7ca5e4837fd856f71.png",
+    "static/media/coffeeItem-2.png": "/coffeeApp/static/media/coffeeItem-2.eac7a0065dc6e158d889.png",
+    "static/media/cup1.jpg": "/coffeeApp/static/media/cup1.44ca1700b80aa5e37674.jpg",
+    "static/media/navLogoWhite.svg": "/coffeeApp/static/media/navLogoWhite.7e5af2c62f1b4e24ac4325270d595efe.svg",
+    "static/media/navLogoBlack.svg": "/coffeeApp/static/media/navLogoBlack.3589927edb41bdd8d1c99bfed3e6301e.svg",
+    "static/media/headerImg.svg": "/coffeeApp/static/media/headerImg.d8ad06a77a7f633d0c2a9736d6fb4634.svg",
+    "static/media/aboutUsLogo.svg": "/coffeeApp/static/media/aboutUsLogo.023b976cf584c92cb61afe5c82a0d35f.svg",
+    "static/media/footerLogo.svg": "/coffeeApp/static/media/footerLogo.023b976cf584c92cb61afe5c82a0d35f.svg",
+    "index.html": "/coffeeApp/index.html",
+    "main.65c9a2d3.css.map": "/coffeeApp/static/css/main.65c9a2d3.css.map",
+    "main.db5363b4.js.map": "/coffeeApp/static/js/main.db5363b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.676a3f71.css",
-    "static/js/main.46e08b9c.js"
+    "static/css/main.65c9a2d3.css",
+    "static/js/main.db5363b4.js"
   ]
 }
