@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+.our-coffee__header {
+	color: #fff;
+    height: 240px;
+    background-image: url('./../images/ourCoffee-bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+.our-beans__container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.our-coffee__title {
+    padding-top: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+}
+
+
+.filters__container {
+    display: flex;
+    justify-content: space-between;
+    width: 693px;
+    margin: 0 auto;
+}
+
+.our-coffee__card-list {
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    width: 800px;
+    height: 580px;
+    column-gap: 60px;
+    /* row-gap: 60px; */
+    position: relative;
+}

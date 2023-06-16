@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+.our-beans {
+    margin: 0 auto;
+    margin-top: 70px;
+    width: 700px;
+    display: flex;
+    align-items: center;
+
+  }
+  
+  .our-beans__img {
+    flex: 0 0 272px;
+    height: 355px; 
+
+  }
+ 
+  .our-beans__block {
+    padding-top: 10px;
+    padding-left: 70px;
+    padding-bottom: 15px;
+    text-align: center; 
+
+  }
+  
+.our-beans__title {
+    /* margin: 0 0 20px 0; */
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.our-beans__logo {
+    padding-top: 20px;
+}
+
+.our-beans__descr {
+    padding-top: 26px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+.our-beans__line {
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 240px;
+    border: 1px solid black;
+    border-bottom: none;
+}

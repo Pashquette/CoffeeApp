@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.for-your-pleasure__header {
+	color: #fff;
+    height: 240px;
+    background-image: url('./../images/fyp-bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+.for-your-pleasure__container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.for-your-pleasure__title {
+    padding-top: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+}
+
+.for-your-pleasure__card-list {
+    margin: 0 auto;
+    /* margin-top: 30px; */
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 800px;
+    row-gap: 60px;
+}

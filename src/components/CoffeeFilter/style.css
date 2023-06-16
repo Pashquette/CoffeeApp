@@ -1,0 +1,41 @@
+.coffee-filter__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.coffee-filter__text {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 30px;
+
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+color: #000000;
+}
+
+.coffee-filter__btns {
+    margin-left: 5px;
+}
+
+.coffee-filter__btn {
+    margin-right: 5px;
+    width: 75px;
+    height: 30px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    text-align: center;
+    color: #000000;
+}
+
+.coffee-filter__btn--active {
+    position: relative;
+    transform: translateY(5px);
+    transition: transform 0.3s ease;
+
+}

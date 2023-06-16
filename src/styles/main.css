@@ -1,0 +1,13 @@
+@import './reset.css';
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+body {
+	min-height: 100vh;
+	font-family:'Merienda';
+}
+
+.App {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
