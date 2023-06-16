@@ -2,6 +2,8 @@
 
 Самостоятельно написанный первый полноценный проект кофешопа.
 
+UPDATE 16.06: Добавил адаптивную верстку.
+
 ## Используемые Технологии
 ![React](https://img.shields.io/badge/-React-61daf8?logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
